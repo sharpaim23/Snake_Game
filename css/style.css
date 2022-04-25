@@ -1,5 +1,8 @@
 body{
-  background-color: rgb(12, 105, 134);
+  background-image: url(./shelley-pauls-I58f47LRQYM-unsplash.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  /* background-color: rgb(12, 105, 134); */
   text-align: center;
 }
 
